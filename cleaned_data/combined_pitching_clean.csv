@@ -1,0 +1,126 @@
+Year,Player,Team,Strikeouts,Wins,ERA
+1901,Cy Young,Boston,158.0,33.0,1.62
+1902,Rube Waddell,Philadelphia,210.0,32.0,1.91
+1903,Rube Waddell,Philadelphia,302.0,28.0,1.74
+1904,Rube Waddell,Philadelphia,349.0,41.0,1.59
+1905,Rube Waddell,Philadelphia,287.0,27.0,1.48
+1906,Rube Waddell,Philadelphia,196.0,27.0,1.52
+1907,Rube Waddell,Philadelphia,232.0,27.0,1.6
+1908,Ed Walsh,Chicago,269.0,40.0,1.16
+1909,Frank Smith,Chicago,177.0,29.0,1.39
+1910,Walter Johnson,Washington,313.0,31.0,1.27
+1911,Ed Walsh,Chicago,255.0,28.0,1.8
+1912,Walter Johnson,Washington,303.0,34.0,1.39
+1913,Walter Johnson,Washington,243.0,36.0,1.14
+1914,Walter Johnson,Washington,225.0,28.0,0.96
+1915,Walter Johnson,Washington,203.0,27.0,1.49
+1916,Walter Johnson,Washington,228.0,25.0,1.75
+1917,Walter Johnson,Washington,188.0,28.0,1.53
+1918,Walter Johnson,Washington,162.0,23.0,1.27
+1919,Walter Johnson,Washington,147.0,29.0,1.49
+1920,Stan Coveleski,Cleveland,133.0,31.0,2.49
+1921,Walter Johnson,Washington,143.0,27.0,2.48
+1922,Urban Shocker,St. Louis,149.0,27.0,2.81
+1923,Walter Johnson,Washington,130.0,26.0,2.76
+1924,Walter Johnson,Washington,158.0,23.0,2.72
+1925,Lefty Grove,Philadelphia,116.0,21.0,2.84
+1926,Lefty Grove,Philadelphia,194.0,27.0,2.51
+1927,Lefty Grove,Philadelphia,174.0,22.0,2.28
+1928,Lefty Grove,Philadelphia,183.0,24.0,2.51
+1929,Lefty Grove,Philadelphia,170.0,24.0,2.81
+1930,Lefty Grove,Philadelphia,209.0,28.0,2.54
+1931,Lefty Grove,Philadelphia,175.0,31.0,2.06
+1932,Red Ruffing,New York,190.0,26.0,2.84
+1933,Lefty Gomez,New York,163.0,24.0,2.95
+1934,Lefty Gomez,New York,158.0,26.0,2.33
+1935,Tommy Bridges,Detroit,163.0,25.0,2.7
+1936,Tommy Bridges,Detroit,175.0,23.0,2.81
+1937,Lefty Gomez,New York,194.0,21.0,2.33
+1938,Bob Feller,Cleveland,240.0,21.0,3.08
+1939,Bob Feller,Cleveland,246.0,24.0,2.54
+1940,Bob Feller,Cleveland,261.0,27.0,2.61
+1941,Bob Feller,Cleveland,260.0,25.0,2.37
+1942,Tex Hughson,Boston,113.0,22.0,2.1
+1943,Allie Reynolds,Cleveland,151.0,20.0,1.64
+1944,Hal Newhouser,Detroit,187.0,29.0,2.12
+1945,Hal Newhouser,Detroit,212.0,25.0,1.81
+1946,Bob Feller,Cleveland,348.0,26.0,1.94
+1947,Bob Feller,Cleveland,196.0,20.0,2.42
+1948,Bob Feller,Cleveland,164.0,21.0,2.43
+1949,Virgil Trucks,Detroit,153.0,25.0,2.36
+1950,Bob Lemon,Cleveland,170.0,23.0,3.2
+1951,Vic Raschi,New York,164.0,22.0,2.48
+1952,Allie Reynolds,New York,160.0,24.0,2.06
+1953,Billy Pierce,Chicago,186.0,22.0,2.42
+1954,Bob Turley,Baltimore,185.0,23.0,2.64
+1955,Herb Score,Cleveland,245.0,18.0,1.97
+1956,Herb Score,Cleveland,263.0,21.0,2.47
+1957,Early Wynn,Cleveland,184.0,20.0,2.45
+1958,Early Wynn,Chicago,179.0,21.0,2.01
+1959,Jim Bunning,Detroit,201.0,22.0,2.19
+1960,Jim Bunning,Detroit,201.0,18.0,2.67
+1961,Camilo Pascual,Minnesota,221.0,25.0,2.4
+1962,Camilo Pascual,Minnesota,206.0,23.0,2.21
+1963,Camilo Pascual,Minnesota,202.0,24.0,2.33
+1964,Al Downing,New York,217.0,20.0,1.65
+1965,Sam McDowell,Cleveland,325.0,21.0,2.18
+1966,Sam McDowell,Cleveland,225.0,25.0,1.98
+1967,Jim Lonborg,Boston,246.0,22.0,2.06
+1968,Sam McDowell,Cleveland,283.0,31.0,1.6
+1969,Sam McDowell,Cleveland,279.0,24.0,2.19
+1970,Sam McDowell,Cleveland,304.0,24.0,2.56
+1971,Mickey Lolich,Detroit,308.0,25.0,1.82
+1972,Nolan Ryan,California,329.0,24.0,1.91
+1973,Nolan Ryan,California,383.0,24.0,2.4
+1974,Nolan Ryan,California,367.0,25.0,2.49
+1975,Frank Tanana,California,269.0,23.0,2.09
+1976,Nolan Ryan,California,327.0,22.0,2.34
+1977,Nolan Ryan,California,341.0,20.0,2.54
+1978,Nolan Ryan,California,260.0,25.0,1.74
+1979,Nolan Ryan,California,223.0,23.0,2.78
+1980,Len Barker,Cleveland,187.0,25.0,2.46
+1981,Len Barker,Cleveland,127.0,14.0,2.33
+1982,Floyd Bannister,Seattle,209.0,19.0,2.96
+1983,Jack Morris,Detroit,232.0,24.0,2.42
+1984,Mark Langston,Seattle,204.0,20.0,2.79
+1985,Bert Blyleven,Cleveland,206.0,22.0,2.48
+1986,Mark Langston,Seattle,245.0,24.0,2.48
+1987,Mark Langston,Seattle,262.0,20.0,2.76
+1988,Roger Clemens,Boston,291.0,24.0,2.45
+1989,Nolan Ryan,Texas,301.0,23.0,2.16
+1990,Nolan Ryan,Texas,232.0,27.0,1.93
+1991,Roger Clemens,Boston,241.0,20.0,2.62
+1992,Randy Johnson,Seattle,241.0,21.0,2.41
+1993,Randy Johnson,Seattle,308.0,22.0,2.56
+1994,Randy Johnson,Seattle,204.0,17.0,2.85
+1995,Randy Johnson,Seattle,294.0,19.0,2.48
+1996,Roger Clemens,Boston,257.0,21.0,2.93
+1997,Roger Clemens,Toronto,292.0,21.0,2.05
+1998,Roger Clemens,Toronto,271.0,20.0,2.65
+1999,Pedro Martinez,Boston,313.0,23.0,2.07
+2000,Pedro Martinez,Boston,284.0,20.0,1.74
+2001,Hideo Nomo,Boston,220.0,21.0,3.05
+2002,Pedro Martinez,Boston,239.0,23.0,2.26
+2003,Esteban Loaiza,Chicago,207.0,22.0,2.22
+2004,Johan Santana,Minnesota,265.0,21.0,2.61
+2005,Johan Santana,Minnesota,238.0,21.0,2.86
+2006,Johan Santana,Minnesota,245.0,19.0,2.77
+2007,Scott Kazmir,Tampa Bay,239.0,20.0,3.01
+2008,A.J. Burnett,Toronto,231.0,22.0,2.54
+2009,Justin Verlander,Detroit,269.0,19.0,2.16
+2010,Jered Weaver,Los Angeles,233.0,21.0,2.27
+2011,Justin Verlander,Detroit,250.0,24.0,2.4
+2012,Justin Verlander,Detroit,239.0,20.0,2.56
+2013,Yu Darvish,Texas,277.0,21.0,2.57
+2014,David Price,Detroit,271.0,18.0,2.14
+2015,Chris Sale,Chicago,274.0,20.0,2.48
+2016,Justin Verlander,Detroit,254.0,22.0,3.0
+2017,Chris Sale,Boston,308.0,18.0,2.25
+2018,Justin Verlander,Houston,290.0,21.0,1.89
+2019,Gerrit Cole,Houston,326.0,21.0,2.5
+2020,Shane Bieber,Cleveland,122.0,8.0,1.63
+2021,Robbie Ray,Toronto,248.0,16.0,2.84
+2022,Gerrit Cole,New York,257.0,18.0,1.75
+2023,Kevin Gausman,Toronto,237.0,16.0,2.63
+2024,Tarik Skubal,Detroit,228.0,18.0,2.39
+2025,Garrett Crochet,Boston,255.0,19.0,2.21
