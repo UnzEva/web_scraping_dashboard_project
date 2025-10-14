@@ -2,5 +2,4 @@
 __pycache__/
 *.db
 data/
-cleaned_data/
 .DS_Store
