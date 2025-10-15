@@ -3,7 +3,7 @@
 A comprehensive web scraping and data visualization project for MLB (Major League Baseball) pitching statistics.
 
 ## Data Sources
-Baseball Almanac
+The Official Baseball History Site: [Baseball Almanac](https://www.baseball-almanac.com/pimenu.shtml)
 
 ## Project Structure
 
@@ -13,6 +13,7 @@ Baseball Almanac
 4. **query_program.py** - Command-line query interface
 5. **dashboard.py** - Streamlit interactive dashboard
 
+##
 web_scraping_dashboard_project/
 
 ├── dashboard.py          
@@ -21,24 +22,26 @@ web_scraping_dashboard_project/
 ├── database_import.py    
 ├── query_program.py     
 ├── requirements.txt     
-├── baseball_stats.db    
+├── baseball_cleaned.db    
 └── README.md
 
 ## Installation
 
 ```bash 
-git clone https://github.com/yourusername/web_scraping_dashboard_project.git
+git clone https://github.com/[yourusername]/web_scraping_dashboard_project.git
 cd web_scraping_dashboard_project
 pip install -r requirements.txt
 ```
 
 ## Usage
 
-1. **Run the scraper:** `python src/mlb_scraper.py`
-2. **Clean the data:** `python src/data_cleaner.py`
-3. **Import to database:** `python src/database_import.py`
-4. **Run queries:** `python src/query_program.py`
-5. **Launch dashboard:** `streamlit run src/dashboard.py`
+1. **Run the scraper:** `python mlb_scraper.py`
+2. **Clean the data:** `python data_cleaner.py`
+4. **Import to database:** `python database_import.py`
+5. **Run queries:** `python query_program.py`
+6. **Launch dashboard:** `streamlit run dashboard.py`
 
 ## Live Dashboard
-The dashboard is deployed at: [[Streamlit Dashboard](https://webscrapingdashboardproject.streamlit.app/)]
+The dashboard is deployed at: [Streamlit Dashboard](https://webscrapingdashboardproject.streamlit.app/)
+
+This project is open source and free to use.
